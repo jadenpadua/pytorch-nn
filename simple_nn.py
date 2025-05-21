@@ -4,8 +4,8 @@ import torch.nn.functional as F
 
 NUM_IN_FEATURES: int = 4
 NUM_H1_NEURONS: int = 8
-NUM_H2_NEURONS: int = 9
-NUM_H3_NEURONS: int = 10
+NUM_H2_NEURONS: int = 6
+NUM_H3_NEURONS: int = 4
 NUM_OUT_CLASSES: int = 3
 
 # Create a Model Class that inherits the base nn.Module
